@@ -1,0 +1,15 @@
+print "What's your first name?" 
+first_name = gets.chomp.capitalize!
+puts "Your first name is #{first_name}"
+
+print "What's your last name?" 
+last_name = gets.chomp.capitalize!
+puts "Your last name is #{last_name}"
+
+print "What's your city name?" 
+city_name = gets.chomp.capitalize!
+puts "Your city name is #{city_name}"
+
+print "What's your state name?" 
+state_name = gets.chomp.upcase!
+puts "Your state name is #{state_name}"
