@@ -1,1 +1,1 @@
-# primer-proyecto-ruby-codecademy
+# proyectos-ruby-codecademy
